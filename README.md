@@ -1,36 +1,36 @@
 # Ejercicios-Modelos
 
 ## Ejercicios Simples:
-5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2: [Ejercicio](https://pages.github.com/).
+5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/areaTriangulo.py).
 11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA: [Ejercicio](https://pages.github.com/).
 
 ## Ejercicios con Condicionales
-18. Escribir un programa que determine si un número leído desde el teclado es par o impar: [Ejercicio](https://pages.github.com/).
-21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana: [Ejercicio](https://pages.github.com/).
+18. Escribir un programa que determine si un número leído desde el teclado es par o impar: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/parimpar.py).
+21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/semana.py).
 
 ## Ejercicios con Ciclos
 32. Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que el usuario teclee N: [Ejercicio](https://pages.github.com/).
-38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es divisible por sí mismo y por la unidad: [Ejercicio](https://pages.github.com/).
+38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es divisible por sí mismo y por la unidad: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/primos.py).
 
 ## Ejercicios con Colecciones
 43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma: [Ejercicio](https://pages.github.com/).
-53. Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario: [Ejercicio](https://pages.github.com/).
+53. Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/primos.py).
 
 ## Cadenas de Caracteres
-62. Escribir un programa que compare dos cadenas de caracteres y nos diga si son idénticos o no: [Ejercicio](https://pages.github.com/).
-63. Decir si una frase es o no un palíndromo, es decir, si se lee igual de derecha a a izquierda que de izquierda a derecha: [Ejercicio](https://pages.github.com/).
+62. Escribir un programa que compare dos cadenas de caracteres y nos diga si son idénticos o no: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/cadena.py).
+63. Decir si una frase es o no un palíndromo, es decir, si se lee igual de derecha a a izquierda que de izquierda a derecha: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/palíndroma.py).
 
 ## Funciones y procedimientos
 64. Escribir un programa que incremente un número usando una función: [Ejercicio](https://pages.github.com/).
-68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado: [Ejercicio](https://pages.github.com/).
+68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/fundobleexp68.py).
 
 ## Recursividad
-75. Escribir un programa que calcule la potencia de un numero usando recursividad: [Ejercicio](https://pages.github.com/).
+75. Escribir un programa que calcule la potencia de un numero usando recursividad: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/potenciaRec.py).
 79. Escribir una función recursiva que halle la suma de los primeros "n" números naturales: [Ejercicio](https://pages.github.com/).
 
 ## Módulos
-81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado: [Ejercicio](https://pages.github.com/).
-83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división: [Ejercicio](https://pages.github.com/).
+81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/moduloEntero.py). [Módulo](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/operacionesEntero.py)
+83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/moduloBinario.py). [Módulo]https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/operacionesBinario.py
 
 ## Archivos
 86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://pages.github.com/).
