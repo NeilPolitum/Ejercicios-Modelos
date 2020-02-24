@@ -39,12 +39,21 @@
 ## Ejercicios Varios
 90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.
 92. .Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para esto se deben crear como mínimo las siguientes funciones: 
+
 • Función que llena el arreglo con números enteros aleatorios. 
+
 • Función que crea una copia del arreglo original. 
+
 • Función que muestra en pantalla un arreglo. 
+
 • Función de ordenar por burbuja. 
+
 • Función de ordenar por selección. 
+
 • Función de ordenar por inserción. 
+
 • Función de ordenar por quick sort. 
+
 • Función que muestra en pantalla un menú de opciones para el usuario. 
+
 nota: Recuerde que el programa no solo debe ordenar los arreglos si no mostrar a usuario como es el proceso de ordenamiento según el caso.
