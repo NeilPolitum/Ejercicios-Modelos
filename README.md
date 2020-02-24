@@ -1,42 +1,42 @@
 # Ejercicios-Modelos
 
-Ejercicios Simples:
+## Ejercicios Simples:
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2
 11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA.
 
-Ejercicios con Condicionales
+## Ejercicios con Condicionales
 18. Escribir un programa que determine si un número leído desde el teclado es par o impar
 21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana.
 
-Ejercicios con Ciclos
+## Ejercicios con Ciclos
 32. Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que el usuario teclee N.
 38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es divisible por sí mismo y por la unidad.
 
-Ejercicios con Colecciones
+## Ejercicios con Colecciones
 43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma.
 53. Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario.
 
-Cadenas de Caracteres
+## Cadenas de Caracteres
 62. Escribir un programa que compare dos cadenas de caracteres y nos diga si son idénticos o no.
 63. Decir si una frase es o no un palíndromo, es decir, si se lee igual de derecha a a izquierda que de izquierda a derecha.
 
-Funciones y procedimientos
+## Funciones y procedimientos
 64. Escribir un programa que incremente un número usando una función.
 68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado.
 
-Recursividad
+## Recursividad
 75. Escribir un programa que calcule la potencia de un numero usando recursividad.
 79. Escribir una función recursiva que halle la suma de los primeros "n" números naturales.
 
-Módulos
+## Módulos
 81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado
 83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división.
 
-Archivos
+## Archivos
 86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto.
 88. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado.
 
-Ejercicios Varios
+## Ejercicios Varios
 90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.
 92. .Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para esto se deben crear como mínimo las siguientes funciones: 
 • Función que llena el arreglo con números enteros aleatorios. 
