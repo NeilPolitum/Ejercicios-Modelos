@@ -4,7 +4,7 @@
 
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/areaTriangulo.py).
 
-**11**. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA: [Ejercicio](https://pages.github.com/).
+11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/Simples_5_iva.py).
 
 ## Ejercicios con Condicionales
 
@@ -14,7 +14,7 @@
 
 ## Ejercicios con Ciclos
 
-**32**. Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que el usuario teclee N: [Ejercicio](https://pages.github.com/).
+32. Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que el usuario teclee N: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/ciclos_32_pregunta.py).
 
 38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es divisible por sí mismo y por la unidad: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/primos.py).
 
@@ -22,7 +22,7 @@
 
 43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/pares.py).
 
-**53**. Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario: [Ejercicio]().
+53. Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/colecciones_53_lista_primos.py).
 
 ## Cadenas de Caracteres
 
@@ -32,7 +32,7 @@
 
 ## Funciones y procedimientos
 
-**64**. Escribir un programa que incremente un número usando una función: [Ejercicio](https://pages.github.com/).
+64. Escribir un programa que incremente un número usando una función: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/funcYproc_64_incremento.py).
 
 68. Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/fundobleexp68.py).
 
@@ -40,7 +40,7 @@
 
 75. Escribir un programa que calcule la potencia de un numero usando recursividad: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/potenciaRec.py).
 
-**79**. Escribir una función recursiva que halle la suma de los primeros "n" números naturales: [Ejercicio](https://pages.github.com/).
+79. Escribir una función recursiva que halle la suma de los primeros "n" números naturales: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/Recursividad_79_suma.py).
 
 ## Módulos
 
@@ -50,15 +50,15 @@
 
 ## Archivos
 
-**86**. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://pages.github.com/).
+**86**. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
-**88**. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://pages.github.com/).
+**88**. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
 ## Ejercicios Varios
 
-**90**. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio: [Ejercicio](https://pages.github.com/).
+**90**. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
-**92**. .Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para esto se deben crear como mínimo las siguientes funciones: 
+92. .Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para esto se deben crear como mínimo las siguientes funciones: 
 
 • Función que llena el arreglo con números enteros aleatorios. 
 
@@ -76,4 +76,4 @@
 
 • Función que muestra en pantalla un menú de opciones para el usuario. 
 
-nota: Recuerde que el programa no solo debe ordenar los arreglos si no mostrar a usuario como es el proceso de ordenamiento según el caso: [Ejercicio](https://pages.github.com/).
+nota: Recuerde que el programa no solo debe ordenar los arreglos si no mostrar a usuario como es el proceso de ordenamiento según el caso: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/ejerVarios_92_ordenamiento.py).
