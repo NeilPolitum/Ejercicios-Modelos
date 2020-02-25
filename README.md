@@ -1,5 +1,7 @@
-# Ejercicios-Modelos
+# Ejercicios Modelos
 
+## Daniel Santiago Rubiano Pulido - 20171020075
+ 
 ## Ejercicios Simples:
 
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/areaTriangulo.py).
@@ -50,13 +52,13 @@
 
 ## Archivos
 
-**86**. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
+86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
-**88**. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
+88. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
 ## Ejercicios Varios
 
-**90**. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
+90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
 
 92. .Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para esto se deben crear como mínimo las siguientes funciones: 
 
