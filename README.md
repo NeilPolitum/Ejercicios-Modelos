@@ -52,9 +52,9 @@
 
 ## Archivos
 
-86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
+86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/archivo.py).
 
-88. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/.py).
+88. Escriba un programa maneje una lista de alumnos en un archivo se debe permitir agregar alumnos a la lista, modificar la información de un alumno y eliminar alumnos de esta lista, la información que se debe manejar es código, nombre, apellido, carrera y estado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/archivo.py).
 
 ## Ejercicios Varios
 
