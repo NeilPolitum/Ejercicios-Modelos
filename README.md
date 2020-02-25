@@ -46,7 +46,7 @@
 
 81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/moduloEntero.py). [Módulo](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/operacionesEntero.py)
 
-83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/moduloBinario.py). [Módulo]https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/operacionesBinario.py
+83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división: [Ejercicio](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/moduloBinario.py). [Módulo](https://github.com/NeilPolitum/Ejercicios-Modelos/blob/master/operacionesBinario.py)
 
 ## Archivos
 
