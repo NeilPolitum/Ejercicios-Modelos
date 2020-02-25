@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 24 15:03:42 2020
-
-@author: danie
-"""
-
 num = raw_input("Ingrese un numero >> ")
 num = int(num)
 contador = 0

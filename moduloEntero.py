@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 24 16:22:23 2020
-
-@author: danie
-"""
-
 import operacionesEnteros
 
 print("Bienvenido, este programa utiliza un modulo para hacer operaciones aritméticas entre numeros binarios")

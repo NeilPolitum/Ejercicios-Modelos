@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 24 08:39:21 2020
-
-@author: danie
-"""
-
 array = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 print("Bienvenido, estre programa recibe un número del 1 al 7, y devuelve el día de la semana "
       "respectivo")

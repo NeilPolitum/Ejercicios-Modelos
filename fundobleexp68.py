@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 24 15:53:28 2020
-
-@author: danie
-"""
 import math
 
 def operacion(x):
